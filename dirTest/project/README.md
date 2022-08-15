@@ -1,27 +1,9 @@
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
-
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
-
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
-
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
-
-
-
+# EVALUACIÓN 1
+Pues le di al link para realizar el examen y realice lo solicitado por el profesor con Git despues de clonar el repositorio
+![hamsta]https://images.habbotemplarios.com/2020/06/hamster.jpg
+[nahnaa]https://www.youtube.com/watch?v=gkTb9GP9lVI&ab_channel=JwHDify
+1. vincular el repositorio y adiciono su link con git clon espesificando donde se almaceno.
+2. primero se pone git add con el nombre del archivo.
+3. se coloca en la consola git commit -m y luego entre "" y dentro de ellas lo que queremos decir en el commit
+4. damos en git push y se sincroniza con el repositorio remoto
